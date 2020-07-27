@@ -6,4 +6,5 @@ import (
 
 func main() {
 	counters.ExampleWordCountRun()
+	counters.GetFibonacciChain(10)
 }
